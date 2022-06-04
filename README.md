@@ -39,7 +39,7 @@ var host = new HostBuilder()
     })
 ```
 
-Here's [FilteringProcessor](.\IsolatedWorker\FilteringProcessor.cs) code.
+Here's [FilteringProcessor](./IsolatedWorkerSample/FilteringProcessor.cs) code.
 
 Now all the dependencies that Application Insights can auto-detect will show up on the Azure Portal, but won't be correlated to Function host bindings telemetry - let's fix it.
 
