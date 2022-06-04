@@ -79,6 +79,6 @@ public static IOperationHolder<RequestTelemetry> TrackWorkerExecution(
 
 Now run your sample - you should see all the dependencies on the portal and correlated to the Function host telemetry.
 
-TODO pic.
+![image](https://user-images.githubusercontent.com/2347409/172026939-f4dfde4f-e54d-4902-a78c-e85f56d4bf5f.png)
 
  
